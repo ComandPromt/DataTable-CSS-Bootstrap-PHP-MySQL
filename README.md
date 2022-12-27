@@ -1,4 +1,4 @@
-# Paginacion-CSS-Bootstrap-PHP-MySQL
+#  DataTable-CSS-Bootstrap-PHP-MySQL
 
 ![Preview](preview/1.png)
 
